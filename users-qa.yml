@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to Shop Sport related qa APIs"
+  contactDetails:
+    name: "Hieu Nguyen - QA Configuration with bus refresh test with Webhook"
+    email: "hieunm123.ptit@gmail.com"
+  onCallSupport:
+    - 0987975823
+    - 0974716452

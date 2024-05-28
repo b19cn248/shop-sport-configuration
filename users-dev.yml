@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to Shop Sport related dev APIs"
+  contactDetails:
+    name: "Hieu Nguyen - Developer Configuration"
+    email: "hieunm123.ptit@gmail.com"
+  onCallSupport:
+    - 0987975823
+    - 0974716452
