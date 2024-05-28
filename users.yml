@@ -1,7 +1,7 @@
 accounts:
   message: "Welcome to Shop Sport related local APIs"
   contactDetails:
-    name: "Hieu Nguyen - Default Configuration test with spring cloud test with WEBHOOK and BUS VERY MUCH"
+    name: "Hieu Nguyen - Default Configuration test with spring cloud test with WEBHOOK and ABC"
     email: "hieunm123.ptit@gmail.com"
   onCallSupport:
     - 0987975823
